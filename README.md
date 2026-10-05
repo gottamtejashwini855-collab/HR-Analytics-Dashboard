@@ -11,7 +11,7 @@ patterns and trends that can support HR decision-making.
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](Screenshots/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](./Screenshots/HR_Analytics_Dashboard.png)
 
 ## Objectives
 
