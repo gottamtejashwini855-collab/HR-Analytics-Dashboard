@@ -10,9 +10,7 @@ An interactive Power BI dashboard was created to help identify
 patterns and trends that can support HR decision-making.
 
 ## Dashboard Preview
-
-![HR Analytics Dashboard](./Screenshots/HR_Analytics_Dashboard.png)
-
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 ## Objectives
 
 - Analyze overall employee attrition
