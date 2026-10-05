@@ -83,11 +83,15 @@ Some of the analysis covered in the dashboard includes:
 hr-analytics-powerbi-dashboard/
 │
 ├── README.md
+│
 ├── Dashboard/
 │   └── HR_Analytics_Dashboard.pbix
+│
 ├── Data/
-│   └── HR_Analytics_Data.csv
-├── Screenshots/
-│   └── HR_Analytics_Dashboard.png
+│   ├── HR_1.xlsx
+│   └── HR_2.xlsx
+│
+└── Screenshots/
+    └── HR_Analytics_Dashboard.png
 Author
 Gottam Tejashwini
